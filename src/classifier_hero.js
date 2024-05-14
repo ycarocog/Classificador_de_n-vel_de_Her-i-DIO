@@ -21,3 +21,5 @@ function hero(hero_name,xp){
 }
 
 hero("Ycaro", 6530)
+
+console.log("Hello World")
